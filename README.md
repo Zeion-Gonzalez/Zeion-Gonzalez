@@ -1,4 +1,4 @@
-![image](https://github.com/Zeion-Gonzalez/Zeion-Gonzalez/assets/131187306/4e681167-ae4b-44a9-a04a-90802456afc4)
+![banner](https://github.com/Zeion-Gonzalez/Zeion-Gonzalez/assets/131187306/4e681167-ae4b-44a9-a04a-90802456afc4)
 
 ```
 Profile Zeion-Gonzales
