@@ -1,7 +1,7 @@
 # Profile Zeion-Gonzales
 ```
-- Name    : Kenzu Amin
-- Country : Malaysia
+- Name     : Kenzu Amin
+- Country  : Malaysia
 - Telegram : https://t.me/debiarch
 - acount   : https://t.me/kimshatori
 ```
